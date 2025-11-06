@@ -1,0 +1,500 @@
+   44  make ptera
+   45  make trex
+   46  make spinosaurus
+   47  make make trex
+   48  make trex
+   49  make raptor
+   50  make trike
+   51  gdb bin/orderlogs
+   52  gdb ref_order
+   53  gdb orderlogs
+   54  gdb bin/orderlogs
+   55  gdb all_new
+   56  gdb testcases/all_new
+   57  make raptor
+   58  gdb ref_order
+   59  gdb bin/orderlogs
+   60  make spinosaurus
+   61  make trike
+   62  gdb bin/orderlogs
+   63  make spinosaurus
+   64  make trex
+   65  make trike
+   66  make raptor
+   67  make stego
+   68  make trike
+   69  gdb bin/orderlogs
+   70  make spinosaurus
+   71  make trike
+   72  gdb bin/orderlogs
+   73  git status
+   74  git add .gdb_history
+   75  git status
+   76  git add README.md
+   77  git status
+   78  git commit -m ' '
+   79  git commit -m 'a'
+   80  git push
+   81  cd ..
+   82  ls
+   83  rm -rf shared-repo-version-a-k-arjun06/
+   84  ls
+   85  rm -rf Test2
+   86  pwd
+   87  cd
+   88  whoami
+   89  l
+   90  ls
+   91  git clone git@github.com:CS429-FA2025/ac-lab-k-arjun06.git
+   92  cd ac-lab-k-arjun06/
+   93  cd ..
+   94  make verify
+   95  make clean
+   96  make
+   97  make verify
+   98  git status
+   99  git add functions.s
+  100  git status
+  101  git commit -m 'name and eid'
+  102  git push
+  103  make
+  104  git status
+  105  git status
+  106  git add functions.s
+  107  git status
+  108  git commit -m 'testing'
+  109  git push
+  110  git status
+  111  git add functions.s
+  112  git commit -m 'bit_rotate r and l'
+  113  git push
+  114  git status
+  115  git add functions.s
+  116  git commit -m 'change from sub to subs'
+  117  git push
+  118  git stats
+  119  git status
+  120  git status
+  121  git add functions.s
+  122  git status
+  123  git commit -m 'functions.s'
+  124  git push
+  125  git status
+  126  git status
+  127  git add functions.s
+  128  git commit -m 'test'
+  129  git push
+  130  git status
+  131  git add functions.s
+  132  git status
+  133  git commit -m 'testing'
+  134  git push
+  135  git status
+  136  git add functions.s
+  137  git status
+  138  git commit -m 'i think this should work now'
+  139  git push
+  140  git status
+  141  git status
+  142  make verify
+  143  git status
+  144  git add functions.s
+  145  git status
+  146  git commit -m 'fixed AND to ANDS'
+  147  git push
+  148  git status
+  149  git add functions.s
+  150  git status
+  151  git commit -m 'testing'
+  152  git push
+  153  git status
+  154  git add functions.s
+  155  git status
+  156  git commit -m 'test'
+  157  git push
+  158  make
+  159  make verify
+  160  make verify
+  161  make verify
+  162  git status
+  163  git add functions.s
+  164  git status
+  165  git commit -m 'm'
+  166  git push
+  167  git status
+  168  git add functions.s
+  169  git commit -m 'x2 to x1'
+  170  git push
+  171  git status
+  172  git add functions.s
+  173  git status
+  174  git status
+  175  git add functions.s
+  176  git commit -m 'i think unicode_to_utf8 works now'
+  177  git push
+  178  git status
+  179  make verify
+  180  git status
+  181  git add functions.s
+  182  git commit -m 'utf8 to unicode'
+  183  git status
+  184  git push
+  185  git status
+  186  git add functions.s
+  187  git commit -m 'comments for clarity'
+  188  git status
+  189  make verify
+  190  git status
+  191  git add functions.s
+  192  git status
+  193  git commit -m 'test'
+  194  git push
+  195  make verify
+  196  git status
+  197  git add functions.s
+  198  git status
+  199  make verify
+  200  make
+  201  git commit -m 'h'
+  202  git status
+  203  git push
+  204  git status
+  205  git add functions.s
+  206  git commit -m 'fixed stupid mistake'
+  207  git status
+  208  git push
+  209  git status
+  210  make verify
+  211  make verify
+  212  make clean
+  213  git status
+  214  make
+  215  make verify
+  216  make clean
+  217  make clean
+  218  make verify
+  219  make
+  220  make clean
+  221  make verify
+  222  make
+  223  make clean
+  224  git status
+  225  git add functions.s
+  226  git status
+  227  git commit -m 'hello'
+  228  git push
+  229  make verify
+  230  make verify
+  231  git status
+  232  git add functions.s
+  233  git commit -m 'hello'
+  234  git push
+  235  git status
+  236  make
+  237  make clean
+  238  make verify
+  239  make
+  240  make verify
+  241  make verify
+  242  make clean
+  243  git status
+  244  make verify
+  245  git status
+  246  git add functions.s
+  247  git status
+  248  git commit -m 'testing'
+  249  git push
+  250  make verify
+  251  make verify
+  252  make verify
+  253  git status
+  254  git add functions.s
+  255  git status
+  256  git commit -m '.'
+  257  git push
+  258  git status
+  259  make verify
+  260  git status
+  261  git add function.s
+  262  git add functions.s
+  263  git status
+  264  git commit -m 'hello'
+  265  git push
+  266  git status
+  267  git add functions.s
+  268  git status
+  269  git commit -m 'blah'
+  270  git push
+  271  make verify
+  272  git status
+  273  git add functions.s
+  274  git commit -m '.'
+  275  git push
+  276  git status
+  277  git add functions.s
+  278  git commit -m 'added stack frame'
+  279  git push
+  280  git status
+  281  git add functions.s
+  282  git status
+  283  git commit -m 'blah
+  284  '
+  285  git push
+  286  pwd
+  287  whoami
+  288  ls
+  289  git clone https://github.com/CS429-FA2025/se-lab-arjun.git
+  290  git status
+  291  git clone git@github.com:CS429-FA2025/se-lab-arjun.git
+  292  git status
+  293  ls
+  294  cd se-lab-arjun/
+  295  make week1
+  296  ./bin/test-hw
+  297  ./bin/test-hw -h
+  298  make clean
+  299  make clean
+  300  make clean
+  301  make tidy
+  302  pwd
+  303  whoami
+  304  git status
+  305  make week1
+  306  ./bin/test-hw
+  307  git status
+  308  git status
+  309  make clean
+  310  make tidy
+  311  make week1
+  312  ./bin/test-hw
+  313  git status
+  314  git add src/base/hw_elts.c
+  315  git status
+  316  git commit -m 'week 1'
+  317  git push
+  318  ./bin/test-hw
+  319  make week1
+  320  ./bin/test-hw
+  321  ./bin/test-hw -a
+  322  ./bin/test-hw -r
+  323  make clean
+  324  make tidy
+  325  make week1
+  326  ./bin/test-hw
+  327  git status
+  328  make clean
+  329  make tidy
+  330  make week1
+  331  ./bin/test-hw
+  332  make week1
+  333  ./bin/test-hw
+  334  git status
+  335  git status
+  336  git add src/base/hw_elts.c
+  337  git status
+  338  git commit -m 'week 1 completed'
+  339  git push
+  340  git status
+  341  pwd
+  342  ls
+  343  cd public_html/
+  344  cd ..
+  345  cd public_html/
+  346  ls
+  347  cd ..
+  348  rm -rf public_html/
+  349  ls
+  350  rm -rf chmod.log.20250915-112656 
+  351  ls
+  352  git clone git@github.com:k-arjun06/f2025-a.git
+  353  ls
+  354  cd f2025-a/
+  355  cd ..
+  356  cd /u/arjunk/f2025-a/f2025e1-a-master && ls -la bin/orderlogs
+  357  cd /u/arjunk/f2025-a/f2025e1-a-master && ./bin/orderlogs
+  358  cd /u/arjunk/f2025-a/f2025e1-a-master && ./bin/orderlogs -f testcases/tiny
+  359  .bin/orderlogs
+  360  ./bin/orderlogs
+  361  git remote -v
+  362  make bronto
+  363  make trex
+  364  make trike
+  365  ls
+  366  cd f2025e1-a-master/
+  367  ls
+  368  make bronto
+  369  make trex
+  370  make trike
+  371  make spinosaurus
+  372  make trex
+  373  make spinosaurus
+  374  make trike
+  375  make spinosaurus
+  376  make ptera
+  377  make trike
+  378  make ptera
+  379  make spinosaurus
+  380  make raptor
+  381  make spinosaurus
+  382  make trike
+  383  make raptor
+  384  make spinosaurus
+  385  make trike
+  386  make spinosaurus
+  387  make trike
+  388  make raptor
+  389  ./bin/orderlogs testcases/all_new
+  390  make trike
+  391  bin/orderlogs
+  392  .bin/orderlogs
+  393  ./bin/orderlogs -f all_new
+  394  ./bin/orderlogs -f testcases/all_new
+  395  ./bin/orderlogs -f ./testcases/all_new
+  396  gdb
+  397  make trike
+  398  gdb bin/orderlogs
+  399  gdb ./bin/orderlogs
+  400  gdb ./bin/orderlogs
+  401  gdb ./bin/orderlogs -f testcases/tiny
+  402  run -f testcases/tiny
+  403  gdb ./bin/orderlogs
+  404  make trike
+  405  gdb ./bin/orderlogs
+  406  make raptor
+  407  ./bin/orderlogs testcases/single_old
+  408  ./bin/orderlogs -f testcases/single_old
+  409  gdb ./bin/orderlogs
+  410  ./reforder
+  411  gdb ./bin/orderlogs
+  412  make spinosaurus
+  413  make raptor
+  414  git status
+  415  ls
+  416  cd f2025e1-a-master/
+  417  make raptor
+  418  make trike
+  419  make trike
+  420  make raptor
+  421  gdb ./bin/orderlogs
+  422  make spinosaurus
+  423  make trike
+  424  gdb ./bin/orderlogs
+  425  historyu
+  426  history
+  427  history > shell_logs.txt
+  428  gdb
+  429  git status
+  430  git add shell_logs.txt
+  431  git status
+  432  git add README.md
+  433  git add reorder.c
+  434  git status
+  435  git commit -m 'completed proficiency task'
+  436  git push
+  437  make trike
+  438  pwd
+  439  whoami
+  440  ls
+  441  git clone git@github.com:k-arjun06/f2025-b.git
+  442  ls
+  443  cd f2025-b
+  444  history
+  445  ls
+  446  history
+  447  history
+  448  whoami
+  449  pwd
+  450  ls
+  451  git clone git@github.com:k-arjun06/f2025-b.git
+  452  ls
+  453  cd f2025-b
+  454  ls
+  455  cd f2025e1-b-master/
+  456  git remote -v
+  457  make bronto
+  458  make trex
+  459  make trike
+  460  make bronto
+  461  make trex
+  462  make spinosaurus
+  463  make trike
+  464  make stego
+  465  make raptor
+  466  ./bin/orderlogs -f testcases/all_new
+  467  gdb ./bin/orderlogs
+  468  make spinosaurus
+  469  make trike
+  470  make trike
+  471  make raptor
+  472  ./bin/orderlogs -f testcases/all_new
+  473  gdb ./bin/orderlogs
+  474  make spinosaurus
+  475  make trike
+  476  make raptor
+  477  ./bin/orderlogs
+  478  ./bin/orderlogs -f testcases/all_old
+  479  gdb ./bin/orderlogs
+  480  make spinosaurus
+  481  make trike
+  482  make raptor
+  483  make stego
+  484  make raptro
+  485  make raptor
+  486  make raptor
+  487  make stego
+  488  ./bin/orderlogs -f testcases/all_new
+  489  history
+  490  history > "shell_logs.txt"
+  491  git status
+  492  git add .
+  493  git status
+  494  cd ..
+  495  cd ..
+  496  ls
+  497  rm -rf f2025-b
+  498  ls
+  499  whoami
+  500  pwd
+  501  ls
+  502  git clone git@github.com:k-arjun06/f2025-c.git
+  503  ls
+  504  cd f2025-c
+  505  ls
+  506  cd f2025e1-c-master/
+  507  ls
+  508  git remote -v
+  509  make trike
+  510  make raptor
+  511  make stego
+  512  ./bin/orderlogs
+  513  ./bin/orderlogs -f testcases/tiny
+  514  gdb ./bin/orderlogs
+  515  make spinosaurus
+  516  make trike
+  517  ./bin/orderlogs -f testcases/tiny
+  518  gdb ./bin/orderlogs
+  519  make spinosaurus
+  520  make trike
+  521  ./bin/orderlogs -f testcases/tiny
+  522  gdb ./bin/orderlogs
+  523  make spinosaurus
+  524  make trike
+  525  gdb
+  526  gdb ./bin/orderlogs
+  527  make raptor
+  528  make stego
+  529  make raptor
+  530  make stego
+  531  make spinosaurus
+  532  make ptera
+  533  make trex
+  534  make raptor
+  535  make trex
+  536  make stego
+  537  make spinosaurus
+  538  chmod +x ref_order
+  539  make stego
+  540  make raptor
+  541  make stego
+  542  history
+  543  history > "shell_logs.txt"

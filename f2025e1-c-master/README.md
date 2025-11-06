@@ -6,18 +6,34 @@ Your answers should be execedingly short. It is most efficient to answer the que
 
 **Git**:
 1. Paste exactly the output of `git remote -v`
+origin  git@github.com:k-arjun06/f2025-c.git (fetch)
+origin  git@github.com:k-arjun06/f2025-c.git (push)
 
 **Makefile**:
 1. What target compiles `orderlogs` with sufficient debug flags
+trike 
 2. Which target verifies your output is identical to the given reference?
+stego
 
 **Linux CLI**:
 1. At least one testcase in the testcases file fails, paste a full, single  command that runs a failing testcase:
+./bin/orderlogs -f testcases/tiny
 
 **GDB**:
 1. When running a failing testcase, give a line where the program segfault at in its given state. Paste the line.
+Program received signal SIGSEGV, Segmentation fault.
+0x00005555555557e8 in merge (node1=0x0, node2=0x55555555b4b0) at reorder.c:46
+46              node1 = node1->next;
+
 2. What is the call stack when the program segfaults in its given state? Paste the call stack output by GDB.
+#0  0x00005555555557e8 in merge (node1=0x0, node2=0x55555555b4b0) at reorder.c:46
+#1  0x00005555555556ce in reorder_list (node=0x55555555b490) at reorder.c:10
+#2  0x00005555555552d8 in main ()
+
+
 3. After fixing this first issue, the program may segfault in a different place. If this is the case, paste that line and the corresponding callstack as well.
+
+
 
 **C**:
 1. Give a logic error that caused the program to segfault. Note, "dereferencing null" is not sufficient.
